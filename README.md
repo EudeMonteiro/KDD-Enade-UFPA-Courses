@@ -31,13 +31,18 @@ This project focuses on analyzing Enade microdata to extract meaningful insights
 <img src="images/bar_group_graph.png" width="485">
 </p>
 
+### Built with
+
+* [Python](https://www.python.org/) and its Data Science toolkit ([NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/),
+  [Matplotlib](https://matplotlib.org/))
+* [Jupyter Notebooks](https://jupyter.org/)
 
 
 ## Getting Started <a name="getting-started"></a>
 
 ### Running on Google Colab <a name="running-on-google-colab"></a>
 
-The code is designed to be run on Google Colab, removing the need for manual modules installations. However, it can also be run on Jupyter Notebook, as long as all the required dependencies are properly installed. Follow these steps to get started:
+The code is designed to be run on Google Colab, removing the need for manual modules installations. However, it can also be run on Jupyter Notebook as long as all the required dependencies are properly installed. Follow these steps to get started:
 
 1. Open Google Colab: https://colab.research.google.com/
 2. Navigate to `File` > `New Notebook`.
