@@ -23,6 +23,16 @@ The National Exam of Student Performance (ENADE) is a standardized assessment in
 
 This project focuses on analyzing Enade microdata to extract meaningful insights and trends related to student performance through the discovery of useful and non-trivial patterns in the exam's data. By using this repository, it is possible to explore performance across subjects and understand correlations between student grades and factors such as family income and weekly study hours. By inputing the code of the course on which the analysis is to be performed, the code automatically pre-process and selects the data attributes that are relevant to the analysis and displays the results through graphs and tables visualizations.
 
+<p float="left">
+<img src="images/absolute_graph.png" width="500"> 
+<img src="images/ratio_graph.png" width="500">
+</p><p float="left">
+<img src="images/income_boxplot.png" width="512">
+<img src="images/bar_group_graph.png" width="485">
+</p>
+
+
+
 ## Getting Started <a name="getting-started"></a>
 
 ### Running on Google Colab <a name="running-on-google-colab"></a>
